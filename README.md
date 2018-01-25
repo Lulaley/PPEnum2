@@ -4,7 +4,7 @@
 *Maxence*
 # Dossier pour le projet (de Mr Chouki donné le 25/01/2018)
 # Jusqu’à Fin Mai (SP 1)
-*==>Les outils : *
+# ==>Les outils : *
   *o	gestionnaire de projet (gant)*
   *o	Framework : boostrap et pingendo*
   *o	Logiciel de versionning*
